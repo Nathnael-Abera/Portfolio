@@ -1,6 +1,6 @@
 import React from 'react'
 import './experience.css'
-import { BsPatchCheckFill } from 'react-icons/bs'
+// import { BsPatchCheckFill } from 'react-icons/bs'
 import html from "../../assets/html5.jpeg"
 import css from "../../assets/css3.jpeg"
 import js from "../../assets/js.png"

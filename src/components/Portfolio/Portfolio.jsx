@@ -35,7 +35,7 @@ const Portfolio = () => {
     },
     {
       name:"Evangadi-Forum",
-      deployedLink: "https://6eebdb0e.evangadiforum-frontend-72c.pages.dev/",
+      deployedLink: "https://evangadiforum-frontend-72c.pages.dev/",
       image: require('../../assets/Evangadi.jpeg'),
       fadeDuration:'1300',
       description:"A web application designed to interact using question and answer user has to login or create a account to post a question and answer   .",
